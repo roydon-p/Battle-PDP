@@ -1,0 +1,294 @@
+/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=59953:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/roydon/IdeaProjects/PDP/Project2_Battle/out/production/Project2_Battle BattleDriver
+---------------------------------------------------------------
+Welcome to the Battle Game ! ! !
+Get your Gears and Weapons and begin the battle
+--------------------------------------------------------------
+-------------------------------------------------------------------------
+Players' details before entering the Arena:
+-------------------------------------------------------------------------
+Players' Basic Abilities:
+Player P1: Strength= 10 | Constitution= 15 | Dexterity= 16 | Charisma= 15
+Player P2: Strength= 14 | Constitution= 15 | Dexterity= 16 | Charisma= 16
+-------------------------------------------------------------------------
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+Player P1 Assigned Gears -
+1. Boeotian helmet
+2. Corinthian helmet
+3. Montefortino helmet
+4. Potion of Etherealness
+5. Potion of Flying
+6. Potion of Giant Strength
+7. Potion of Healing
+8. Potion of Slipperiness
+9. Potion of Speed
+10. Potion of Speed
+11. Orange Belt
+12. Orange Belt
+13. Precision Belt
+14. Weapon Belt
+15. Barefoot Shoes
+16. Buckled Shoes
+17. Buckled Shoes
+18. Combat Boots
+19. Jika-tabi Shoes
+20. Oxfords
+
+Assigning weapon to Player P1...COMPLETE
+Player P1 Assigned Weapon -Two-Handed Sword
+
+Assigning gears to Player P2...COMPLETE
+Player P2 Assigned Gears -
+1. Horned helmet
+2. Horned helmet
+3. Negau helmet
+4. Papakha
+5. Shtreimel
+6. Potion of Etherealness
+7. Potion of Sharpness
+8. Potion of Slipperiness
+9. Potion of Speed
+10. Orange Belt
+11. White Belt
+12. White Belt
+13. White Belt
+14. White Belt
+15. Cowboy Boots
+16. Crocs
+17. Loafers
+18. Russian Boots
+19. Sandals
+20. Sandals
+
+Assigning weapon to Player P2...COMPLETE
+Player P2 Assigned Weapon -Two-Handed Sword
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Player details for the Battle:
+-----------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+1. Corinthian helmet
+2. Potion of Etherealness
+3. Potion of Flying
+4. Potion of Giant Strength
+5. Potion of Healing
+6. Potion of Slipperiness
+7. Potion of Speed
+8. Potion of Speed
+9. Orange Belt
+10. Orange Belt
+11. Precision Belt
+12. Weapon Belt
+13. Oxfords
+
+Weapon: Two-Handed Sword
+
+Abilities: Strength= 12 | Constitution= 18 | Dexterity= 21 | Charisma= 22
+
+Health: 73
+-----------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+1. Papakha
+2. Potion of Etherealness
+3. Potion of Sharpness
+4. Potion of Slipperiness
+5. Potion of Speed
+6. Orange Belt
+7. White Belt
+8. White Belt
+9. White Belt
+10. White Belt
+11. Russian Boots
+
+Weapon: Two-Handed Sword
+
+Abilities: Strength= 18 | Constitution= 20 | Dexterity= 19 | Charisma= 27
+
+Health: 84
+----------------------------------------------------------------------
+
+Battle Starting ...
+P2 strikes first.
+Round 1: P2 attacks | Hit Successful | Damage= 8 | P1 Health= 65 | P2 Health= 84
+Round 2: P1 attacks | Hit Missed 
+Round 3: P2 attacks | Hit Successful | Damage= 8 | P1 Health= 57 | P2 Health= 84
+Round 4: P1 attacks | Hit Missed 
+Round 5: P2 attacks | Hit Successful | Damage= 9 | P1 Health= 48 | P2 Health= 84
+Round 6: P1 attacks | Hit Missed 
+Round 7: P2 attacks | Hit Successful | Damage= 8 | P1 Health= 40 | P2 Health= 84
+Round 8: P1 attacks | Hit Missed 
+Round 9: P2 attacks | Hit Successful | Damage= 10 | P1 Health= 30 | P2 Health= 84
+Round 10: P1 attacks | Hit Missed 
+Round 11: P2 attacks | Hit Missed 
+Round 12: P1 attacks | Hit Missed 
+Round 13: P2 attacks | Hit Missed 
+Round 14: P1 attacks | Hit Missed 
+Round 15: P2 attacks | Hit Successful | Damage= 11 | P1 Health= 19 | P2 Health= 84
+Round 16: P1 attacks | Hit Missed 
+Round 17: P2 attacks | Hit Successful | Damage= 11 | P1 Health= 8 | P2 Health= 84
+Round 18: P1 attacks | Hit Missed 
+Round 19: P2 attacks | Hit Missed 
+Round 20: P1 attacks | Hit Missed 
+Round 21: P2 attacks | Hit Missed 
+Round 22: P1 attacks | Hit Missed 
+Round 23: P2 attacks | Hit Missed 
+Round 24: P1 attacks | Hit Missed 
+Round 25: P2 attacks | Hit Missed 
+Round 26: P1 attacks | Hit Missed 
+Round 27: P2 attacks | Hit Missed 
+Round 28: P1 attacks | Hit Missed 
+Round 29: P2 attacks | Hit Missed 
+Round 30: P1 attacks | Hit Missed 
+Round 31: P2 attacks | Hit Missed 
+Round 32: P1 attacks | Hit Missed 
+Round 33: P2 attacks | Hit Missed 
+Round 34: P1 attacks | Hit Missed 
+Round 35: P2 attacks | Hit Missed 
+Round 36: P1 attacks | Hit Missed 
+Round 37: P2 attacks | Hit Missed 
+Round 38: P1 attacks | Hit Missed 
+Round 39: P2 attacks | Hit Successful | Damage= 10 | P1 Health= -2 | P2 Health= 84
+Player P2 Wins !!
+Do you want a rematch? (Y/N): y
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+Player P1 Assigned Gears -
+1. Attic helmet
+2. Boar's tusk helmet
+3. Montefortino helmet
+4. Pava
+5. Spodik
+6. Potion of Healing
+7. Potion of Poison
+8. Potion of Sharpness
+9. Potion of Speed
+10. Orange Belt
+11. Orange Belt
+12. Precision Belt
+13. Red Belt
+14. Red Belt
+15. Red Belt
+16. Barefoot Shoes
+17. Flip-Flops
+18. Jika-tabi Shoes
+19. Jika-tabi Shoes
+20. Sandals
+
+Assigning weapon to Player P1...COMPLETE
+Player P1 Assigned Weapon -Katana
+
+Assigning gears to Player P2...COMPLETE
+Player P2 Assigned Gears -
+1. Chalcidian helmet
+2. Coolus helmet
+3. Galea
+4. Papakha
+5. Thracian helmet
+6. Potion of Etherealness
+7. Potion of Flying
+8. Potion of Giant Strength
+9. Potion of Healing
+10. Potion of Healing
+11. Potion of Speed
+12. Orange Belt
+13. Precision Belt
+14. Precision Belt
+15. Tactical Level 2 Belt
+16. White Belt
+17. Chukka Boots
+18. Oxfords
+19. Sandals
+20. Slippers
+
+Assigning weapon to Player P2...COMPLETE
+Player P2 Assigned Weapon -Axe
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Player details for the Battle:
+-----------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+1. Spodik
+2. Potion of Healing
+3. Potion of Poison
+4. Potion of Sharpness
+5. Potion of Speed
+6. Orange Belt
+7. Orange Belt
+8. Precision Belt
+9. Red Belt
+10. Red Belt
+11. Red Belt
+12. Jika-tabi Shoes
+
+Weapon: Katana
+
+Abilities: Strength= 14 | Constitution= 16 | Dexterity= 18 | Charisma= 14
+
+Health: 62
+-----------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+1. Thracian helmet
+2. Potion of Etherealness
+3. Potion of Flying
+4. Potion of Giant Strength
+5. Potion of Healing
+6. Potion of Healing
+7. Potion of Speed
+8. Orange Belt
+9. Precision Belt
+10. Precision Belt
+11. Tactical Level 2 Belt
+12. White Belt
+13. Slippers
+
+Weapon: Axe
+
+Abilities: Strength= 5 | Constitution= 14 | Dexterity= 15 | Charisma= 22
+
+Health: 56
+----------------------------------------------------------------------
+
+Battle Starting ...
+P2 strikes first.
+Round 1: P2 attacks | Hit Missed 
+Round 2: P1 attacks | Hit Successful | Damage= 9 | P1 Health= 62 | P2 Health= 47
+Round 3: P2 attacks | Hit Missed 
+Round 4: P1 attacks | Hit Successful | Damage= 10 | P1 Health= 62 | P2 Health= 37
+Round 5: P2 attacks | Hit Missed 
+Round 6: P1 attacks | Hit Successful | Damage= 8 | P1 Health= 62 | P2 Health= 29
+Round 7: P2 attacks | Hit Missed 
+Round 8: P1 attacks | Hit Successful | Damage= 8 | P1 Health= 62 | P2 Health= 21
+Round 9: P2 attacks | Hit Missed 
+Round 10: P1 attacks | Hit Missed 
+Round 11: P2 attacks | Hit Missed 
+Round 12: P1 attacks | Hit Missed 
+Round 13: P2 attacks | Hit Missed 
+Round 14: P1 attacks | Hit Successful | Damage= 10 | P1 Health= 62 | P2 Health= 11
+Round 15: P2 attacks | Hit Missed 
+Round 16: P1 attacks | Hit Successful | Damage= 10 | P1 Health= 62 | P2 Health= 1
+Round 17: P2 attacks | Hit Missed 
+Round 18: P1 attacks | Hit Missed 
+Round 19: P2 attacks | Hit Missed 
+Round 20: P1 attacks | Hit Missed 
+Round 21: P2 attacks | Hit Missed 
+Round 22: P1 attacks | Hit Successful | Damage= 9 | P1 Health= 62 | P2 Health= -8
+Player P1 Wins !!
+Do you want a rematch? (Y/N): n
+
+Process finished with exit code 0

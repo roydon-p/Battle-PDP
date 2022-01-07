@@ -1,0 +1,105 @@
+/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61716:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/roydon/IdeaProjects/PDP/Project2_Battle/out/production/Project2_Battle BattleDriver
+---------------------------------------------------------------
+Welcome to the Battle Game ! ! !
+Get your Gears and Weapons and begin the battle
+--------------------------------------------------------------
+-------------------------------------------------------------------------
+Players' details before entering the Arena:
+-------------------------------------------------------------------------
+Players' Basic Abilities:
+Player P1: Strength= 12 | Constitution= 11 | Dexterity= 12 | Charisma= 14
+Player P2: Strength= 14 | Constitution= 16 | Dexterity= 16 | Charisma= 10
+-------------------------------------------------------------------------
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+Player P1 Assigned Gears -
+1. NA
+
+Assigning weapon to Player P1...COMPLETE
+Player P1 Assigned Weapon -NA
+
+Assigning gears to Player P2...COMPLETE
+Player P2 Assigned Gears -
+1. NA
+
+Assigning weapon to Player P2...COMPLETE
+Player P2 Assigned Weapon -NA
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Player details for the Battle:
+-----------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+1. NA
+
+Weapon: NA
+
+Abilities: Strength= 12 | Constitution= 11 | Dexterity= 12 | Charisma= 14
+
+Health: 49
+-----------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+1. NA
+
+Weapon: NA
+
+Abilities: Strength= 14 | Constitution= 16 | Dexterity= 16 | Charisma= 10
+
+Health: 56
+----------------------------------------------------------------------
+
+Battle Starting ...
+P1 to strike first.
+Round 1: P1 attacks | Hit Missed 
+Round 2: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 46 | P2 Health= 56
+Round 3: P1 attacks | Hit Missed 
+Round 4: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 43 | P2 Health= 56
+Round 5: P1 attacks | Hit Missed 
+Round 6: P2 attacks | Hit Missed 
+Round 7: P1 attacks | Hit Missed 
+Round 8: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 40 | P2 Health= 56
+Round 9: P1 attacks | Hit Missed 
+Round 10: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 37 | P2 Health= 56
+Round 11: P1 attacks | Hit Missed 
+Round 12: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 34 | P2 Health= 56
+Round 13: P1 attacks | Hit Missed 
+Round 14: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 31 | P2 Health= 56
+Round 15: P1 attacks | Hit Missed 
+Round 16: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 28 | P2 Health= 56
+Round 17: P1 attacks | Hit Missed 
+Round 18: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 25 | P2 Health= 56
+Round 19: P1 attacks | Hit Missed 
+Round 20: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 22 | P2 Health= 56
+Round 21: P1 attacks | Hit Missed 
+Round 22: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 19 | P2 Health= 56
+Round 23: P1 attacks | Hit Missed 
+Round 24: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 16 | P2 Health= 56
+Round 25: P1 attacks | Hit Missed 
+Round 26: P2 attacks | Hit Missed 
+Round 27: P1 attacks | Hit Missed 
+Round 28: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 13 | P2 Health= 56
+Round 29: P1 attacks | Hit Missed 
+Round 30: P2 attacks | Hit Missed 
+Round 31: P1 attacks | Hit Missed 
+Round 32: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 10 | P2 Health= 56
+Round 33: P1 attacks | Hit Missed 
+Round 34: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 7 | P2 Health= 56
+Round 35: P1 attacks | Hit Missed 
+Round 36: P2 attacks | Hit Missed 
+Round 37: P1 attacks | Hit Missed 
+Round 38: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 4 | P2 Health= 56
+Round 39: P1 attacks | Hit Missed 
+Round 40: P2 attacks | Hit Successful | Damage= 3 | P1 Health= 1 | P2 Health= 56
+Round 41: P1 attacks | Hit Missed 
+Round 42: P2 attacks | Hit Missed 
+Round 43: P1 attacks | Hit Missed 
+Round 44: P2 attacks | Hit Successful | Damage= 3 | P1 Health= -2 | P2 Health= 56
+Player P2 Wins !!
+Do you want a rematch? (Y/N): 

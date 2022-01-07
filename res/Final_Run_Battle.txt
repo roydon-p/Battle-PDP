@@ -1,0 +1,515 @@
+/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=56355:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/roydon/IdeaProjects/PDP/Project2_Battle/out/production/Project2_Battle BattleDriver
+-------------------------------------------------------------------------
+Welcome to the Battle Game ! ! !
+Get your Gears and Weapons and begin the battle
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Players' details before entering the Arena:
+-------------------------------------------------------------------------
+Players' Basic Abilities:
+Player P1: Strength= 10 | Constitution= 14 | Dexterity= 15 | Charisma= 6
+Player P2: Strength= 12 | Constitution= 13 | Dexterity= 14 | Charisma= 14
+-------------------------------------------------------------------------
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+
+Assigning weapon to Player P1...COMPLETE
+
+Assigning gears to Player P2...COMPLETE
+
+Assigning weapon to Player P2...COMPLETE
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Player details for the Battle:
+-------------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+Boar's tusk helmet
+Potion of Healing
+Potion of Sharpness
+Precision Belt
+Weapon Belt
+White Belt
+Sneakers
+
+Weapon: Flail
+
+Abilities: Strength= 14 | Constitution= 14 | Dexterity= 22 | Charisma= 13
+
+Health: 63
+-------------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+Capotain
+Potion of Sharpness
+Potion of Sharpness
+Potion of Slipperiness
+Red Belt
+Tactical Level 2 Belt
+Weapon Belt
+White Belt
+Jika-tabi Shoes
+
+Weapon: Two-Handed Sword
+
+Abilities: Strength= 20 | Constitution= 13 | Dexterity= 17 | Charisma= 17
+
+Health: 67
+----------------------------------------------------------------------
+
+Battle Starting ...
+P2 strikes first.
+Round 1: P2 attacks | Hit Successful | Damage= 15 | P1 Health= 48 | P2 Health= 67
+Round 2: P1 attacks | Hit Missed 
+Round 3: P2 attacks | Hit Missed 
+Round 4: P1 attacks | Hit Successful | Damage= 9 | P1 Health= 48 | P2 Health= 58
+Round 5: P2 attacks | Hit Successful | Damage= 14 | P1 Health= 34 | P2 Health= 58
+Round 6: P1 attacks | Hit Missed 
+Round 7: P2 attacks | Hit Successful | Damage= 14 | P1 Health= 20 | P2 Health= 58
+Round 8: P1 attacks | Hit Successful | Damage= 10 | P1 Health= 20 | P2 Health= 48
+Round 9: P2 attacks | Hit Successful | Damage= 14 | P1 Health= 6 | P2 Health= 48
+Round 10: P1 attacks | Hit Successful | Damage= 11 | P1 Health= 6 | P2 Health= 37
+Round 11: P2 attacks | Hit Missed 
+Round 12: P1 attacks | Hit Successful | Damage= 11 | P1 Health= 6 | P2 Health= 26
+Round 13: P2 attacks | Hit Missed 
+Round 14: P1 attacks | Hit Missed 
+Round 15: P2 attacks | Hit Successful | Damage= 16 | P1 Health= -10 | P2 Health= 26
+Player P2 Wins !!
+Do you want a rematch? (Y/N): y
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+
+Assigning weapon to Player P1...COMPLETE
+
+Assigning gears to Player P2...COMPLETE
+
+Assigning weapon to Player P2...COMPLETE
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Player details for the Battle:
+-------------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+Corinthian helmet
+Potion of Speed
+Potion of Speed
+Orange Belt
+Orange Belt
+Precision Belt
+Tactical Belt
+Tactical Level 2 Belt
+Snow Boots
+
+Weapon: Broad Sword
+
+Abilities: Strength= 15 | Constitution= 24 | Dexterity= 25 | Charisma= 7
+
+Health: 71
+-------------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+Kegelhelm
+Potion of Flying
+Potion of Speed
+Potion of Speed
+Potion of Speed
+Orange Belt
+White Belt
+Crocs
+
+Weapon: Two-Handed Sword
+
+Abilities: Strength= 12 | Constitution= 24 | Dexterity= 19 | Charisma= 17
+
+Health: 72
+----------------------------------------------------------------------
+
+Battle Starting ...
+P2 strikes first.
+Round 1: P2 attacks | Hit Missed 
+Round 2: P1 attacks | Hit Missed 
+Round 3: P2 attacks | Hit Missed 
+Round 4: P1 attacks | Hit Missed 
+Round 5: P2 attacks | Hit Missed 
+Round 6: P1 attacks | Hit Missed 
+Round 7: P2 attacks | Hit Missed 
+Round 8: P1 attacks | Hit Missed 
+Round 9: P2 attacks | Hit Missed 
+Round 10: P1 attacks | Hit Missed 
+Round 11: P2 attacks | Hit Missed 
+Round 12: P1 attacks | Hit Missed 
+Round 13: P2 attacks | Hit Missed 
+Round 14: P1 attacks | Hit Missed 
+Round 15: P2 attacks | Hit Missed 
+Round 16: P1 attacks | Hit Missed 
+Round 17: P2 attacks | Hit Missed 
+Round 18: P1 attacks | Hit Missed 
+Round 19: P2 attacks | Hit Missed 
+Round 20: P1 attacks | Hit Missed 
+Round 21: P2 attacks | Hit Missed 
+Round 22: P1 attacks | Hit Missed 
+Round 23: P2 attacks | Hit Missed 
+Round 24: P1 attacks | Hit Missed 
+Round 25: P2 attacks | Hit Missed 
+Round 26: P1 attacks | Hit Missed 
+Round 27: P2 attacks | Hit Missed 
+Round 28: P1 attacks | Hit Missed 
+Round 29: P2 attacks | Hit Missed 
+Round 30: P1 attacks | Hit Missed 
+Round 31: P2 attacks | Hit Missed 
+Round 32: P1 attacks | Hit Missed 
+Round 33: P2 attacks | Hit Missed 
+Round 34: P1 attacks | Hit Missed 
+Round 35: P2 attacks | Hit Missed 
+Round 36: P1 attacks | Hit Missed 
+Round 37: P2 attacks | Hit Missed 
+Round 38: P1 attacks | Hit Missed 
+Round 39: P2 attacks | Hit Missed 
+Round 40: P1 attacks | Hit Missed 
+Round 41: P2 attacks | Hit Missed 
+Round 42: P1 attacks | Hit Missed 
+Round 43: P2 attacks | Hit Missed 
+Round 44: P1 attacks | Hit Missed 
+Round 45: P2 attacks | Hit Missed 
+Round 46: P1 attacks | Hit Missed 
+Round 47: P2 attacks | Hit Missed 
+Round 48: P1 attacks | Hit Missed 
+Round 49: P2 attacks | Hit Missed 
+Round 50: P1 attacks | Hit Missed 
+Round 51: P2 attacks | Hit Missed 
+Round 52: P1 attacks | Hit Missed 
+Round 53: P2 attacks | Hit Missed 
+Round 54: P1 attacks | Hit Missed 
+Round 55: P2 attacks | Hit Missed 
+Round 56: P1 attacks | Hit Missed 
+Round 57: P2 attacks | Hit Missed 
+Round 58: P1 attacks | Hit Missed 
+Round 59: P2 attacks | Hit Missed 
+Round 60: P1 attacks | Hit Missed 
+Round 61: P2 attacks | Hit Missed 
+Round 62: P1 attacks | Hit Missed 
+Round 63: P2 attacks | Hit Missed 
+Round 64: P1 attacks | Hit Missed 
+Round 65: P2 attacks | Hit Missed 
+Round 66: P1 attacks | Hit Missed 
+Round 67: P2 attacks | Hit Missed 
+Round 68: P1 attacks | Hit Missed 
+Round 69: P2 attacks | Hit Missed 
+Round 70: P1 attacks | Hit Missed 
+Round 71: P2 attacks | Hit Missed 
+Round 72: P1 attacks | Hit Missed 
+Round 73: P2 attacks | Hit Missed 
+Round 74: P1 attacks | Hit Missed 
+Round 75: P2 attacks | Hit Missed 
+Round 76: P1 attacks | Hit Missed 
+Round 77: P2 attacks | Hit Missed 
+Round 78: P1 attacks | Hit Missed 
+Round 79: P2 attacks | Hit Missed 
+Round 80: P1 attacks | Hit Missed 
+Round 81: P2 attacks | Hit Missed 
+Round 82: P1 attacks | Hit Missed 
+Round 83: P2 attacks | Hit Missed 
+Round 84: P1 attacks | Hit Missed 
+Round 85: P2 attacks | Hit Missed 
+Round 86: P1 attacks | Hit Missed 
+Round 87: P2 attacks | Hit Missed 
+Round 88: P1 attacks | Hit Missed 
+Round 89: P2 attacks | Hit Missed 
+Round 90: P1 attacks | Hit Missed 
+Round 91: P2 attacks | Hit Missed 
+Round 92: P1 attacks | Hit Missed 
+Round 93: P2 attacks | Hit Missed 
+Round 94: P1 attacks | Hit Missed 
+Round 95: P2 attacks | Hit Missed 
+Round 96: P1 attacks | Hit Missed 
+Round 97: P2 attacks | Hit Missed 
+Round 98: P1 attacks | Hit Missed 
+Round 99: P2 attacks | Hit Missed 
+Round 100: P1 attacks | Hit Missed 
+Round 101: P2 attacks | Hit Missed 
+Round 102: P1 attacks | Hit Missed 
+Round 103: P2 attacks | Hit Missed 
+Round 104: P1 attacks | Hit Missed 
+Round 105: P2 attacks | Hit Missed 
+Round 106: P1 attacks | Hit Missed 
+Round 107: P2 attacks | Hit Missed 
+Round 108: P1 attacks | Hit Missed 
+Round 109: P2 attacks | Hit Missed 
+Round 110: P1 attacks | Hit Missed 
+Round 111: P2 attacks | Hit Missed 
+Round 112: P1 attacks | Hit Missed 
+Round 113: P2 attacks | Hit Missed 
+Round 114: P1 attacks | Hit Missed 
+Round 115: P2 attacks | Hit Missed 
+Round 116: P1 attacks | Hit Missed 
+Round 117: P2 attacks | Hit Missed 
+Round 118: P1 attacks | Hit Missed 
+Round 119: P2 attacks | Hit Missed 
+Round 120: P1 attacks | Hit Missed 
+Round 121: P2 attacks | Hit Missed 
+Round 122: P1 attacks | Hit Missed 
+Round 123: P2 attacks | Hit Missed 
+Round 124: P1 attacks | Hit Missed 
+Round 125: P2 attacks | Hit Missed 
+Round 126: P1 attacks | Hit Missed 
+Round 127: P2 attacks | Hit Missed 
+Round 128: P1 attacks | Hit Missed 
+Round 129: P2 attacks | Hit Missed 
+Round 130: P1 attacks | Hit Missed 
+Round 131: P2 attacks | Hit Missed 
+Round 132: P1 attacks | Hit Missed 
+Round 133: P2 attacks | Hit Missed 
+Round 134: P1 attacks | Hit Missed 
+Round 135: P2 attacks | Hit Missed 
+Round 136: P1 attacks | Hit Missed 
+Round 137: P2 attacks | Hit Missed 
+Round 138: P1 attacks | Hit Missed 
+Round 139: P2 attacks | Hit Missed 
+Round 140: P1 attacks | Hit Missed 
+Round 141: P2 attacks | Hit Missed 
+Round 142: P1 attacks | Hit Missed 
+Round 143: P2 attacks | Hit Missed 
+Round 144: P1 attacks | Hit Missed 
+Round 145: P2 attacks | Hit Missed 
+Round 146: P1 attacks | Hit Missed 
+Round 147: P2 attacks | Hit Missed 
+Round 148: P1 attacks | Hit Missed 
+Round 149: P2 attacks | Hit Missed 
+Round 150: P1 attacks | Hit Missed 
+Round 151: P2 attacks | Hit Missed 
+Round 152: P1 attacks | Hit Missed 
+Round 153: P2 attacks | Hit Missed 
+Round 154: P1 attacks | Hit Missed 
+Round 155: P2 attacks | Hit Missed 
+Round 156: P1 attacks | Hit Missed 
+Round 157: P2 attacks | Hit Missed 
+Round 158: P1 attacks | Hit Missed 
+Round 159: P2 attacks | Hit Missed 
+Round 160: P1 attacks | Hit Missed 
+Round 161: P2 attacks | Hit Missed 
+Round 162: P1 attacks | Hit Missed 
+Round 163: P2 attacks | Hit Missed 
+Round 164: P1 attacks | Hit Missed 
+Round 165: P2 attacks | Hit Missed 
+Round 166: P1 attacks | Hit Missed 
+Round 167: P2 attacks | Hit Missed 
+Round 168: P1 attacks | Hit Missed 
+Round 169: P2 attacks | Hit Missed 
+Round 170: P1 attacks | Hit Missed 
+Round 171: P2 attacks | Hit Missed 
+Round 172: P1 attacks | Hit Missed 
+Round 173: P2 attacks | Hit Missed 
+Round 174: P1 attacks | Hit Missed 
+Round 175: P2 attacks | Hit Missed 
+Round 176: P1 attacks | Hit Missed 
+Round 177: P2 attacks | Hit Missed 
+Round 178: P1 attacks | Hit Missed 
+Round 179: P2 attacks | Hit Missed 
+Round 180: P1 attacks | Hit Missed 
+Round 181: P2 attacks | Hit Missed 
+Round 182: P1 attacks | Hit Missed 
+Round 183: P2 attacks | Hit Missed 
+Round 184: P1 attacks | Hit Missed 
+Round 185: P2 attacks | Hit Missed 
+Round 186: P1 attacks | Hit Missed 
+Round 187: P2 attacks | Hit Missed 
+Round 188: P1 attacks | Hit Missed 
+Round 189: P2 attacks | Hit Missed 
+Round 190: P1 attacks | Hit Missed 
+Round 191: P2 attacks | Hit Missed 
+Round 192: P1 attacks | Hit Missed 
+Round 193: P2 attacks | Hit Missed 
+Round 194: P1 attacks | Hit Missed 
+Round 195: P2 attacks | Hit Missed 
+Round 196: P1 attacks | Hit Missed 
+Round 197: P2 attacks | Hit Missed 
+Round 198: P1 attacks | Hit Missed 
+Round 199: P2 attacks | Hit Missed 
+Round 200: P1 attacks | Hit Missed 
+Match Tied as Max Round limit is reached
+Do you want a rematch? (Y/N): y
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+
+Assigning weapon to Player P1...COMPLETE
+
+Assigning gears to Player P2...COMPLETE
+
+Assigning weapon to Player P2...COMPLETE
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Player details for the Battle:
+-------------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+Boeotian helmet
+Potion of Etherealness
+Potion of Etherealness
+Potion of Flying
+Potion of Healing
+Precision Belt
+Precision Belt
+Precision Belt
+Red Belt
+Red Belt
+White Belt
+White Belt
+Chukka Boots
+
+Weapon: Two-Handed Sword
+
+Abilities: Strength= 14 | Constitution= 18 | Dexterity= 16 | Charisma= 17
+
+Health: 65
+-------------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+American fiber helmet
+Potion of Flying
+Potion of Flying
+Potion of Sharpness
+Potion of Sharpness
+Potion of Slipperiness
+Potion of Slipperiness
+Tactical Belt
+Tactical Level 2 Belt
+White Belt
+White Belt
+Saddle Shoes
+
+Weapon: Axe
+
+Abilities: Strength= 16 | Constitution= 14 | Dexterity= 21 | Charisma= 25
+
+Health: 76
+----------------------------------------------------------------------
+
+Battle Starting ...
+P2 strikes first.
+Round 1: P2 attacks | Hit Successful | Damage= 4 | P1 Health= 61 | P2 Health= 76
+Round 2: P1 attacks | Hit Missed 
+Round 3: P2 attacks | Hit Successful | Damage= 4 | P1 Health= 57 | P2 Health= 76
+Round 4: P1 attacks | Hit Missed 
+Round 5: P2 attacks | Hit Successful | Damage= 4 | P1 Health= 53 | P2 Health= 76
+Round 6: P1 attacks | Hit Missed 
+Round 7: P2 attacks | Hit Successful | Damage= 4 | P1 Health= 49 | P2 Health= 76
+Round 8: P1 attacks | Hit Missed 
+Round 9: P2 attacks | Hit Successful | Damage= 6 | P1 Health= 43 | P2 Health= 76
+Round 10: P1 attacks | Hit Missed 
+Round 11: P2 attacks | Hit Successful | Damage= 6 | P1 Health= 37 | P2 Health= 76
+Round 12: P1 attacks | Hit Missed 
+Round 13: P2 attacks | Hit Successful | Damage= 5 | P1 Health= 32 | P2 Health= 76
+Round 14: P1 attacks | Hit Missed 
+Round 15: P2 attacks | Hit Missed 
+Round 16: P1 attacks | Hit Missed 
+Round 17: P2 attacks | Hit Successful | Damage= 5 | P1 Health= 27 | P2 Health= 76
+Round 18: P1 attacks | Hit Missed 
+Round 19: P2 attacks | Hit Successful | Damage= 6 | P1 Health= 21 | P2 Health= 76
+Round 20: P1 attacks | Hit Missed 
+Round 21: P2 attacks | Hit Missed 
+Round 22: P1 attacks | Hit Missed 
+Round 23: P2 attacks | Hit Missed 
+Round 24: P1 attacks | Hit Missed 
+Round 25: P2 attacks | Hit Successful | Damage= 5 | P1 Health= 16 | P2 Health= 76
+Round 26: P1 attacks | Hit Missed 
+Round 27: P2 attacks | Hit Successful | Damage= 7 | P1 Health= 9 | P2 Health= 76
+Round 28: P1 attacks | Hit Missed 
+Round 29: P2 attacks | Hit Missed 
+Round 30: P1 attacks | Hit Missed 
+Round 31: P2 attacks | Hit Successful | Damage= 4 | P1 Health= 5 | P2 Health= 76
+Round 32: P1 attacks | Hit Missed 
+Round 33: P2 attacks | Hit Successful | Damage= 6 | P1 Health= -1 | P2 Health= 76
+Player P2 Wins !!
+Do you want a rematch? (Y/N): y
+
+Preparing for Battle...
+
+Gears added to the Equipment Bag...
+
+Weapons added to the Armory...
+
+Assigning gears to Player P1...COMPLETE
+
+Assigning weapon to Player P1...COMPLETE
+
+Assigning gears to Player P2...COMPLETE
+
+Assigning weapon to Player P2...COMPLETE
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Player details for the Battle:
+-------------------------------------------------------------------------
+Player P1:
+Equipped Gears -
+Montefortino helmet
+Potion of Flying
+Potion of Giant Strength
+Potion of Giant Strength
+Potion of Healing
+Orange Belt
+Red Belt
+Tactical Level 2 Belt
+Tactical Level 2 Belt
+Slide Sandals
+
+Weapon: Axe
+
+Abilities: Strength= 24 | Constitution= 15 | Dexterity= 18 | Charisma= 9
+
+Health: 66
+-------------------------------------------------------------------------
+Player P2:
+Equipped Gears -
+Boar's tusk helmet
+Potion of Flying
+Potion of Giant Strength
+Potion of Sharpness
+Potion of Sharpness
+Precision Belt
+Precision Belt
+Red Belt
+Red Belt
+Tactical Belt
+Ugg Boots
+
+Weapon: Katana
+
+Abilities: Strength= 22 | Constitution= 17 | Dexterity= 16 | Charisma= 14
+
+Health: 69
+----------------------------------------------------------------------
+
+Battle Starting ...
+P2 strikes first.
+Round 1: P2 attacks | Hit Successful | Damage= 12 | P1 Health= 54 | P2 Health= 69
+Round 2: P1 attacks | Hit Successful | Damage= 15 | P1 Health= 54 | P2 Health= 54
+Round 3: P2 attacks | Hit Successful | Damage= 11 | P1 Health= 43 | P2 Health= 54
+Round 4: P1 attacks | Hit Successful | Damage= 14 | P1 Health= 43 | P2 Health= 40
+Round 5: P2 attacks | Hit Successful | Damage= 11 | P1 Health= 32 | P2 Health= 40
+Round 6: P1 attacks | Hit Successful | Damage= 15 | P1 Health= 32 | P2 Health= 25
+Round 7: P2 attacks | Hit Successful | Damage= 12 | P1 Health= 20 | P2 Health= 25
+Round 8: P1 attacks | Hit Successful | Damage= 14 | P1 Health= 20 | P2 Health= 11
+Round 9: P2 attacks | Hit Successful | Damage= 12 | P1 Health= 8 | P2 Health= 11
+Round 10: P1 attacks | Hit Successful | Damage= 16 | P1 Health= 8 | P2 Health= -5
+Player P1 Wins !!
+Do you want a rematch? (Y/N): n
+
+Process finished with exit code 0
